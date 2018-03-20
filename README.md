@@ -1,5 +1,6 @@
 # editViewTable
 編輯儲存格
+![alt text](https://www.ezfindme.com/wp-content/uploads/2018/03/螢幕快照-2018-03-20-下午12.46.23.png)
 import UIKit
 
 class ViewController: UIViewController ,UITableViewDelegate,UITableViewDataSource{
